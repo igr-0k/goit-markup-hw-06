@@ -601,9 +601,8 @@ body {
   color: var(--w-color);
 }
 
-.subscribtion-field {
+.subscribtion-form {
   display: flex;
-  flex-direction: row;
 }
 
 .subscribtion-input {
@@ -663,7 +662,6 @@ body {
 }
 
 .subscribtion-icon {
-  display: block;
   text-align: center;
   margin-left: 10px;
 }
